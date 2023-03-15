@@ -1,6 +1,6 @@
 <h2 align="center">
- Meu Portfólio<br/>
-  <a href="https://felipe-buch-portifolio.netlify.app/" target="_blank">Link do Portfólio</a>
+ MyFeeds<br/>
+  <a href="https://felipe-buch-portifolio.netlify.app/" target="_blank">Link do MyFeeds</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/Portifolio.png" />
